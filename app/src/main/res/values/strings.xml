@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Etiquetado Imagen ML-Kotlin</string>
+
+    <string name="BtnEtiquetarImagen">RECONOCER OBJETOS</string>
+    <string name="TxtResultado">RESULTADOS DE LA IMAGEN</string>
+    <string name="Resultados"></string>
+
+
+
+    <string name="MenuGaleria">Abrir galeria </string>
+    <string name="MenuTraducir">Traducir</string>
+
+</resources>
